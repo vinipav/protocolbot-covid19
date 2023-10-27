@@ -1,0 +1,7 @@
+streamlit
+llama_index
+qdrant_client
+python-dotenv
+pypdf
+transformers
+streamlit-chat
